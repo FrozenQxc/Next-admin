@@ -6,7 +6,7 @@ const Card = ({ item }) => {
 		<div className={styles.container}>
 			<MdSupervisedUserCircle size={24} />
 			<div className={styles.texts}>
-				<span className={styles.title}>Юзеры</span>
+				<span className={styles.title}>Пользователи</span>
 				<span className={styles.number}>10.273</span>
 				<span className={styles.detail}>
 					<span className={styles.positive}>12%</span> Больше чем в прошлую
